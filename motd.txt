@@ -1,1 +1,3 @@
-Hello
+Welcome to dozy client.\n
+Discord: https://discord.gg/SKvRJqVSUJ\n
+STATUS: <color=blue>[FULLY UNDECTECTED]</color>
