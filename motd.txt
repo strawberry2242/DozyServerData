@@ -1,3 +1,4 @@
 Welcome to dozy client.\n
 Discord: https://discord.gg/SKvRJqVSUJ\n
-STATUS: <color=blue>[FULLY UNDECTECTED]</color>
+STATUS: <color=blue>[FULLY UNDECTECTED]</color>\n
+<color=red>IF YOU GET BANNED WITH THIS MENU PLEASE SAY IN THE DISCORD SERVER</color>
